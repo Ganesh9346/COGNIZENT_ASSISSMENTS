@@ -1,0 +1,133 @@
+COGNIZANT DEEP SKILLING PROGRAM
+WEEK 1 ASSESSMENT
+NAME: Bandaru Ganesh
+REG NO: 12315269
+
+EXERCISE 1: INVENTORY MANAGEMENT SYSTEM
+
+1.Why are data structures and algorithms important?
+
+Data structures and algorithms are important because they help in storing and managing large amounts of inventory data efficiently. They make searching, updating, and deleting products faster and improve the performance of the system.
+
+2.Suitable Data Structures
+
+• ArrayList – Used to store products in a dynamic list.
+• HashMap – Used for fast searching using product IDs.
+
+3.Time Complexity Analysis
+
+• Add Product – O(1)
+• Update Product – O(1)
+• Delete Product – O(1)
+
+4.Optimization
+
+Using HashMap improves the performance because products can be accessed directly using their IDs without searching the entire collection.
+
+EXERCISE 2: E-COMMERCE PLATFORM SEARCH FUNCTION
+
+1.Big O Notation
+
+Big O notation is used to measure the efficiency of an algorithm and shows how the running time increases as the input size increases.
+
+2.Search Cases
+
+• Best Case – Element found immediately.
+• Average Case – Element found somewhere in the middle.
+• Worst Case – Element found at the end or not present.
+
+3.Time Complexity
+
+• Linear Search – O(n)
+• Binary Search – O(log n)
+
+4.Suitable Algorithm
+
+Binary Search is more suitable for large sorted data because it reduces the search space by half in every step.
+
+EXERCISE 3: SORTING CUSTOMER ORDERS
+
+1.Sorting Algorithms
+
+• Bubble Sort – Compares adjacent elements and swaps them.
+• Insertion Sort – Inserts elements into their correct positions.
+• Quick Sort – Uses a pivot and divides the array into parts.
+• Merge Sort – Divides and merges sorted parts.
+
+2.Time Complexity
+
+• Bubble Sort – O(n²)
+• Quick Sort – O(n log n)
+
+3.Why Quick Sort?
+
+Quick Sort is generally preferred because it is much faster than Bubble Sort for large data sets.
+
+EXERCISE 4: EMPLOYEE MANAGEMENT SYSTEM
+
+1.Array Representation
+
+Arrays store elements in contiguous memory locations, making element access very fast.
+
+2.Advantages of Arrays
+
+• Fast access using index.
+• Easy to implement.
+• Less memory overhead.
+
+3.Time Complexity
+
+• Add – O(1)
+• Search – O(n)
+• Traverse – O(n)
+• Delete – O(n)
+
+4.Limitations
+
+Arrays have a fixed size and inserting or deleting elements is expensive.
+
+EXERCISE 5: TASK MANAGEMENT SYSTEM
+
+1.Types of Linked Lists
+
+• Singly Linked List – Each node contains data and next pointer.
+• Doubly Linked List – Each node contains previous and next pointers.
+
+2.Time Complexity
+
+• Add – O(1)
+• Search – O(n)
+• Traverse – O(n)
+• Delete – O(n)
+
+3.Advantages
+
+Linked lists are dynamic in size and insertion or deletion is easier compared to arrays.
+
+EXERCISE 6: LIBRARY MANAGEMENT SYSTEM
+
+1.Search Algorithms
+
+• Linear Search checks each element one by one.
+• Binary Search repeatedly divides the search space into half.
+
+2.Time Complexity
+
+• Linear Search – O(n)
+• Binary Search – O(log n)
+
+3.When to Use
+
+Linear Search is suitable for small or unsorted data. Binary Search is suitable for large sorted data.
+
+EXERCISE 7: FINANCIAL FORECASTING
+
+1.Recursion
+Recursion is a technique where a method calls itself to solve smaller instances of the same problem.
+2.Time Complexity
+
+The recursive solution may take O(n) or more depending on the implementation.
+
+3.Optimization
+
+The recursive solution can be optimized using memoization or dynamic programming to avoid repeated calculations.
