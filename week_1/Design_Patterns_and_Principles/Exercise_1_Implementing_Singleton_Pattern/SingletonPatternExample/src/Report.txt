@@ -1,0 +1,11 @@
+EXERCISE 1 : SINGLETON DESIGN PATTERN
+The Singleton Design Pattern ensures that only one object of a class is created during the execution of a program.
+Characteristics:
+1. The constructor is private.
+2. A private static object of the class is created.
+3. A public static method returns the same object whenever it is requested.
+Advantages:
+1. Saves memory.
+2. Provides a single point of access.
+3. Prevents creation of multiple objects.
+4. Useful for logging, database connections, and configuration settings.
