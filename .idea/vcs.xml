@@ -3,5 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/week_5/blogapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week_5/myfirstreact" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week_5/scorecalculatorapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week_5/studentapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week_5/trainersapp" vcs="Git" />
   </component>
 </project>
